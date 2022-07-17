@@ -1,0 +1,31 @@
+.bar{
+    height: 60px;
+    padding-left: 5%;
+    margin: auto;
+}
+.main{
+    height: 300px;
+    background-color: rgb(133, 189, 238);
+
+    
+}
+
+.categories{
+    background-color: azure;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.card-title{
+    text-align: center;
+}
+
+.card{
+    display: flex;
+}
+
+.form1{
+    width: 50%;
+    align-items: center;
+    margin:auto;
+
+}
